@@ -1,4 +1,3 @@
-
 <h1 align="center">ʜᴀʟʟᴏ, ɪ'ᴍ ᴅᴀᴍsʏ<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <p align="center">
   <a href="https://github.com/damsyx/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Im+Just+Amateur;But+I+will+Keep+Learning;I%20|%20Like%20|%20CODING%20:);lets%20study;Together%20HEHEHE%20:)%20:)&center=true&width=500&height=50"></a>
@@ -42,7 +41,6 @@
 <p align="center">
 	<a href="https://github.com/damsyx"><img src="https://img.icons8.com/bubbles/50/000000/github.png" alt="GitHub"/></a>
 	<a href="https://instagram.com/dambud_"><img src="https://img.icons8.com/bubbles/50/000000/instagram.png" alt="Instagram"/></a>
-	
 </p>
 
 <hr/>
