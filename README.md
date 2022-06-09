@@ -27,7 +27,7 @@
   <summary><b>👑 ɢɪᴛʜᴜʙ ᴘʀᴏꜰɪʟᴇ sᴛᴀᴛs</b></summary>
   <br/>
   <p align="center">
-    <a href="https://github.com/damsyx/github-readme-stats"><img alt="Rexashh's Github Stats" src="https://github-readme-stats.vercel.app/api?username=damsyx&show_icons=true&count_private=true&theme=algolia" height="192px"/></a>
+    <a href="https://github.com/damsyx/github-readme-stats"><img alt="Dam's Github Stats" src="https://github-readme-stats.vercel.app/api?username=damsyx&show_icons=true&count_private=true&theme=algolia" height="192px"/></a>
 <br/>
   &nbsp;
 	  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=damsyx&show_icons=true&locale=en&layout=compact&theme=algolia" alt="damsyx" height="192px"/>
