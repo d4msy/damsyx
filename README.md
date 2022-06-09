@@ -41,6 +41,7 @@
 <p align="center">
 	<a href="https://github.com/damsyx"><img src="https://img.icons8.com/bubbles/50/000000/github.png" alt="GitHub"/></a>
 	<a href="https://instagram.com/dambud_"><img src="https://img.icons8.com/bubbles/50/000000/instagram.png" alt="Instagram"/></a>
+        <a href="https://t.me/damssyx"><img src="https://img.icons8.com/bubbles/50/undefined/telegram-app.png" alt="telegram" /></a>
 </p>
 
 <hr/>
