@@ -20,7 +20,7 @@
 
 
 
-### <img src="https://media.giphy.com/media/IqgySmxEgP0rs40ZMB/giphy.gif" width="50"> sᴛᴀᴛs:
+### <img src="https://media.giphy.com/media/IqgySmxEgP0rs40ZMB/giphy.gif" width="60">✨ sᴛᴀᴛs:
 <p>
     <img src="https://github-readme-stats.vercel.app/api?username=damsyx&hide=issues&show_icons=true&hide_border=true&title_color=000" />
 </p>
