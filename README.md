@@ -20,22 +20,11 @@
 </p>
 
 
-## 🔥 ɢɪᴛʜᴜʙ sᴛᴀᴛs (ᴇxᴘᴀɴᴅ ᴛᴏ ᴠɪᴇᴡ) 
 
-
-<details> 
-  <summary><b>👑 ɢɪᴛʜᴜʙ ᴘʀᴏꜰɪʟᴇ sᴛᴀᴛs</b></summary>
-  <br/>
-  <p align="center">
-    <a href="https://github.com/damsyx/github-readme-stats"><img alt="Dam's Github Stats" src="https://github-readme-stats.vercel.app/api?username=damsyx&show_icons=true&count_private=true&theme=algolia" height="192px"/></a>
-<br/>
-  &nbsp;
-	  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=damsyx&show_icons=true&locale=en&layout=compact&theme=algolia" alt="damsyx" height="192px"/>
-  <br/>
-  <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
-  </p>
-</details>
-
+### <img src="https://media.giphy.com/media/IqgySmxEgP0rs40ZMB/giphy.gif" width="50"> sᴛᴀᴛs:
+<p>
+    <img src="https://github-readme-stats.vercel.app/api?username=damsyx&hide=issues&show_icons=true&hide_border=true&title_color=000" />
+</p>
 
 ## 💌 ʟᴇᴛ's ᴄᴏɴɴᴇᴄᴛ
 <p align="center">
