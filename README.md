@@ -1,4 +1,4 @@
-<h2 align="center">Hᴀʟʟᴏ, I'ᴍ Dᴀᴍsʏ<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"></h2>
+<h2 align="center">Hɪ Tʜᴇʀᴇ, I'ᴍ Dᴀᴍsʏ<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"></h2>
 <p align="center">
   <a href="https://github.com/damsyx/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Im+Just+Amateur;But+I+Will+Keep+Learning;I%20|%20Like%20Sebat's%20%20:);Let's%20Study;Together%20HIHI%20:)%20:)&center=true&width=500&height=60"></a>
 </p>
@@ -36,7 +36,7 @@
 
 <hr/>
     </details>
-    <summary>&#127942 <b>ɢɪᴛʜᴜʙ ᴀᴄᴛɪᴠɪᴛʏ</b></summary><br/>
+    <summary>&#127942 <b>Gɪᴛʜᴜʙ Aᴄᴛɪᴠɪᴛʏ</b></summary><br/>
 
 ![Metrics](https://metrics.lecoq.io/damsyx?template=classic&repositories.forks=true&languages=1&languages.colors=github&languages.threshold=0%25&config.timezone=Asia%2FJakarta)
 
